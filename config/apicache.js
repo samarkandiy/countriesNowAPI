@@ -2,7 +2,7 @@ const DEBUG_CONFIG = {
     debug: true,
     defaultDuration: '1 day',
     enabled: true,
-    trackPerformance: true,
+    trackPerformance: false,
     respectCacheControl: false
 };
 
